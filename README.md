@@ -41,5 +41,18 @@ Aplikacja korzysta wyłącznie z **biblioteki standardowej Pythona**, co oznacza
 2. Otwórz terminal / wiersz poleceń w tym folderze.
 3. Uruchom program poleceniem:
 
+Dane Autora
+Autor: Popławski Kuba
+
+Indeks: 13153
+
+GitHub: @KubaPoplawski
+
+Kontakt: kubapoplawski18@gmail.com
+
+Projekt stworzony w ramach przedmiotu: Narzędzia procesu tworzenia oprogramowania
+
 ```bash
 python moto_trip_app.py
+
+
